@@ -1409,4 +1409,92 @@ Mateus
 Gravina
 -->
 
-## Aula 16 - 27/04/2023 - [..., ...] - Semana 8
+## Aula 16 - 28/04/2023 - [09h00, 9h30] - Cheguei atrasado - Semana 8
+
+### Offtopic 16
+
+> Um peruano que vivia na Bolívia
+> E muitas coisas trazia de lá
+> Seu nome era Pablo e ele dizia
+> Que um negócio ele ia começar
+
+### Slide Aula 16
+
+#### Cheguei atrasado 16
+
+#### Usabilidade e aceitabilidade
+
+- Dificuldade de tradução de "Metas em ações"
+  - [Faltou anotar o resto]
+
+- Aceitabilidade
+  - Trata de encaixar as tecnologias na vida das pessoas
+- Usabilidade e aceitabilidade
+  - Pode ser entendido no contexto de uso
+    - Usabildiade pode ser avaliada em laboratório
+      - Experiência
+    - Aceitabildiade não laboratorial
+      - Política: mudanças VS estilos
+      - Conveniência: simplicidade de uso
+      - Hábitos sociais e culturais: costumes de agir
+      - Utilidade: utilidade no contexto
+      - Economia: mercado e acesso
+
+-Aceitabildiade: quando o sistema é suficientemente bom para satisfazer todas as necessidades e requisitos do usuário
+
+<!-- Grafo -->
+
+A1 -> B1
+A1 -> B2
+B2 -> C1
+B2 -> C2
+B2 -> C3
+B2 -> C4
+C1 -> D1
+C1 -> D2
+D2 -> E1
+D2 -> E2
+D2 -> E3
+D2 -> E4
+D2 -> E5
+
+A1: Aceitabilidade de um sistema
+B1: Aceitabilidade social
+B2: Aceitabilidade prática
+C1: Benefício
+C2: Custo
+C3: Compatibilidade
+C4: Confiança
+D1: Utilidade (Capacidade de atendimento das necessidades do usuário)
+D2: Usabilidade
+E1: Fácil para aprender
+E2: Eficiente para usar
+E3: Fácil de lembrar
+E4: Poucos erros
+E5: Subjetivamente agradável
+
+##### Aceitabilidade
+
+- Modelo de aceitação tecnológica (TAM)
+  - Tecnologia -> fatores na intenção de uso
+  - Fatores cognitivos
+    - Utilidade Percebida (PU)
+      - Grau que a pessoa acha que usando a ferramenta tecnológica melhorará seu desempenho nas atividades realizadas
+    - Facilidade de uso percebida (PEOU)
+      - Grau que acha que usando a tecnologia realizará menos esforço na realização da atividade
+
+##### Objetivos da Usabilidade
+
+<!-- Imagem -->
+
+- Objetivos
+  - Efetivo: quão bem um sistema faz o que devia fazer?
+  - Segurança: proteção contra erros e recuperação de erros
+  - Utilidade: funcionalidade correta
+  - Recordação: habilidade para um usuário fazer o que ele aprendeu faz algum tempo
+  - Eficiência: habilidade para usuário ganhar tempo ao usar sistemas já conhecidos
+  - Aprendizado: habilidade para usuários aprender facilmente a usar
+
+## Aula 17 - 28/04/2023 - [....., .....] - Semana 9
+
+## Aula 18 - 28/04/2023 - [....., .....] - Semana 9
