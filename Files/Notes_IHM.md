@@ -1495,6 +1495,113 @@ E5: Subjetivamente agradável
   - Eficiência: habilidade para usuário ganhar tempo ao usar sistemas já conhecidos
   - Aprendizado: habilidade para usuários aprender facilmente a usar
 
-## Aula 17 - 28/04/2023 - [....., .....] - Semana 9
+## Aula 17 - 02/05/2023 - [10h26, 11h24] - Semana 9 - Cheguei atrasado
+
+### Offtopic 17
+
+- Amortização de banco no Imposto de renda
+- "Quando eu trabalhei no banco, tínhamos que programar em assembly". "Foi aí que aprendi mais assembly, porque estava mais espertinho"
+
+### Slide Aula 17
+
+#### Usuários
+
+- Usuário novato
+  - Novo ao sistema
+  - Precisa de uma interface simples e básica
+  - Espera maneiras maneiras mais seguras de fazer as coisas
+- Usuário casual
+  - Usuário com algo de experiência
+  - Frequência intermitente
+    - Precisa de um período de atualização para ser um usuário experto
+  - Utilizam o sistema esporadicamente
+- Usuário experto
+  - Com experiência em uma aplicação
+  - Que tem recursos e capacidades avançadas
+  - Com mais opções de personalizar uma aplicação
+  - Sentem-se livres para explorar tudo
+  - Desejos de descobrir novas coisas na aplicação
+  - Cometem menos erros
+  - Sentem-se mais seguros
+
+#### Usabilidade - Fatores
+
+- Facilidade de aprendizado
+  - O mais importante fator da usabilidade
+  - Primeira experiência de usuários a um sistema novo
+  - Primeira experiência de usuários novatos
+  - O fator mais fácil de medir (tempo)
+    - Usuários testados representativos:
+      - Com alguma experiência computacional
+      - Sem nenhuma experiência computacional
+    - Métrica
+      - Usuários capazes de completar uma determinada tarefa
+
+---
+
+- Eficiência de uso
+  - > O sistemadeve ser eficiente a tal ponto de permitir que o usuário, tendo aprendido a interagir com ele, atinja níveis altos de produtividade na realização de suas tarefas
+  - Dedicado a usuários experientes
+    - Grau de competência mínimo
+    - Número de horas gastas utilizando o sistema
+  - Tempo de resposta
+    - Taa de comunicação entre sistema e usuário
+      - Desejáveis: tempos de resposta instantânea ou de curta duração
+  - Métrica
+    - Tempo utilizado para executar uma tarefa por um grupo de usuários experientes
+
+---
+
+- Baixa taxa de erros
+  - > O usuário é capaz de realizar tarefas sem maiores transtornos, recuperando erros caso ocorram
+  - Erro
+    - Qualquer ação que não atinja o objetivo desejado
+  - Recuperação de erros
+    - Tolerância a falhas, segurança, confiabilidade
+  - Métrica
+    - Quantidade de erros que ocorrem na realização de uma tarefa
+    - Categoria de erros
+
+---
+
+- Satisfação subjetiva
+  - > O usuário considera a gradável a interação com o sistema e se sente subjetivamente satisfeito com ele
+  - Agradável vs. Eficiência + velocidade
+  - Mais agradável >> Mais satisfeito >> mais uso
+  - Métrica
+    - Questionários para classificar a experiência interativa
+    - Medidas objetivas
+      - Eletroencefalogramas
+      - Dilatação da pupila
+      - Batimentos cardíacos
+      - Pressão sanguínea
+      - etc.
+
+---
+
+- Consistência -> aprendizado (visual)
+  - Tarefas similares requerem sequênccias de aões similares.
+    - Padronizar: terminologia, layout, conjunto de cores e fontes devem ser padronizados
+  - Permite que o usuário obtenha o mesmo efeito quando executa uma determinada ação
+  - Métrica
+    - Uniformidade de localização, forma, cor e tamanho
+
+---
+
+- Flexibilidade (adaptativo)
+  - Refere-se à variedade de formas com o usuário e o sistema trocam informações
+  - Capacidade do sistema em se adaptar
+    - Ao contexto às necessidades e preferências do usuário
+    - A realizar a mesma tarefa ...
+  - Métrica
+    - ...
+
+### Aspecto Cognitivo de Interfaces - Factores Humanos
+
+#### Um caso
+
+<!-- Imagem -->
+
+#### Psicologia da IHM
 
 ## Aula 18 - 28/04/2023 - [....., .....] - Semana 9
