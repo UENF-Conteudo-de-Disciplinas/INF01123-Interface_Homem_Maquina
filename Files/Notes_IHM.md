@@ -1604,4 +1604,148 @@ E5: Subjetivamente agradável
 
 #### Psicologia da IHM
 
-## Aula 18 - 28/04/2023 - [....., .....] - Semana 9
+## Aula 18 - 28/04/2023 - [08h32, 09h55] - Semana 9
+
+### Offtopic (18)
+
+- "A brasileira mais gostosa?"
+- Zé: Aula de ilusão de ótica?
+- Rivera: É
+
+### Aspecto Cognitivo de Interfaces - Factores Humanos (18)
+
+#### Psicologia da IHM (18)
+
+- IHM é uma fronteira entre a psicologia e as máquinas programadas
+  - Envolve humanos e máquinas
+    - Comportamento humano e a interatividade
+    - Tecnologia pode afetar o comportamento humano nas atividades
+- Dos aspectos a se considerar
+  - Aspectos tecnológicos
+  - Aspectos humanos
+
+O CERTO é que "IHC é resultado da soma de esforços entre"
+
+- Científicos em computação
+  - Projetam, desenvolvem aplicativos e plataformas
+- Psicólogos
+  - Participam em projetos de interface, análise das capacidades humanas
+
+---
+
+Um teste: tenta decorar esse número: 978560275 <!-- Número de Rivera? -->
+
+#### Psicologia Cognitiva
+
+- O que é Psicologia Cognitiva?
+  - É o estudo científico da mente em pensamento, estuda a forma
+    - Manipular as informações (conhecimento)
+      - Obtenção
+      - Seleção
+      - Armazenamento na memória
+      - Uso em resolução de problemas
+      - Pensamento
+      - Exprimir a linguagem
+
+---
+
+Cognição -> Experimental
+Cognição -> Reflexiva
+Experimental -> A
+Reflexiva -> A
+A -> Atenção
+A -> Percepção e reconhecimento
+A -> Memória
+A -> Aprendizado
+A -> Leitura, fala e audição
+A -> Resolução de probelmas, planejamento, raciocínio e tomada de decisão
+
+##### Cognição Experimental
+
+- Estado mental no qual percemeos, agimos e reagimos aos eventos de maneira eficaz e sem esforço
+- Exige certo nível de perícia e envolvimento
+- Exemplos:
+  - Dirigir um carro
+  - Ler um livro
+  - Conversar
+  - Comer
+
+##### Cognição Reflexiva
+
+- Envolve pensar, comparar e tomar decisões
+- Promove novas ideias
+- Exemplo:
+  - Projetar
+  - Escrever
+  - Programar
+  - Desenhar
+  - Pintar
+  - ...
+
+##### Atenção
+
+- Processo de selecionar coisas existentes
+  - Em certo momento
+    - Imagem onde há nomes de cores coloridas com outras cores
+- Permite focar no que é relevante
+  - Objetivos claros
+
+---
+
+- Maneira de disponibilidade da informação
+  - Para encontrar a informação desejada
+  - Pode influenciar nas facilidades e dificuldade
+
+---
+
+- Implicações do Design
+  - Salientar a informação quando for necessário
+  - Utilizar técnicas para centrar atenção
+    - Gráficos animados
+    - Cores apropriados
+    - Sublinhados
+    - Ordenação de itens
+    - Sequenciamento de informação diferentes
+    - Espaçamentos de itens
+
+---
+
+- Implicações do Design
+  - Evitar sobrecarga da interface
+    - Informações em excesso
+    - Cores
+    - Sons e Gráficos
+
+##### Percepção e Reconhecimento
+
+- Como a informação é obtida do ambiente
+- Percepção da informação pelos sentidos
+  - Olhos, ouvidos, dedos
+- Envolvimento de memória, atenção e linguagem
+
+---
+
+- Sentido dominantes
+  - Visão (dominante maior)
+  - Audição (dominante médio)
+  - Tato (dominante menor)
+- Exemplos
+  - Ícones percebíveis como pretendido
+  - Sons e animações
+
+<!-- Imagem do velho -->
+
+---
+
+- Implicação do Design
+  - FALTOU
+
+## Aula 19 - 09/05/2023 - [08h32, .....] - Semana 9
+
+### Offtopic (19)
+
+### Aspecto Cognitivo de Interfaces - Factores Humanos (19)
+
+#### Psicologia Cognitiva (19)
+
+##### Percepção e Reconhecimento (19)
