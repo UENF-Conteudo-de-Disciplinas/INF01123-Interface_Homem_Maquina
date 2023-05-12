@@ -8,7 +8,6 @@
 
 [x] Pedir para ele mandar os slides antes para eu poder transcrever algumas coisas aqui para este arquivo
 
-
 #### Anotações
 
 Conta bastante a participação: trazer nossos conceitos, dúvidas, etc.
@@ -828,7 +827,7 @@ Gabriel Gravina
 Javier
 -->
 
-## Aula 9 - 04/04/2023 - [10h34, 11h37] - Semana 5 - Ele esqueceu da aula
+## Aula 9 - 04/04/2023 - Semana 5 - [10h34, 11h37] - Ele esqueceu da aula
 
 ### Offtopic 9
 
@@ -925,9 +924,9 @@ Danibrito
   - OCEAN: tipos
   - ...
 
-## Aula 10 - 06/04/2023 - [...., .....] - Semana 5 - Feriado - Semana santa
+## Aula 10 - 06/04/2023 - Semana 5 - Feriado - Semana santa
 
-## Aula 11 - 11/04/2023 - [10h20, 11h39] - Semana 6
+## Aula 11 - 11/04/2023 - Semana 6 - [10h20, 11h39]
 
 ### Aula 11 - Offtopic
 
@@ -1050,7 +1049,9 @@ Paulo
 Gravina
 -->
 
-## Aula 12 - 14/04/2023 - [08h43, 09h36] - Semana 6
+## Fim da matéria da P1
+
+## Aula 12 - 14/04/2023 - Semana 6 - [08h43, 09h36]
 
 ### OffTopic 12
 
@@ -1175,7 +1176,7 @@ Mateus Schulz
 Larissa
 -->
 
-## Aula 13 - 18/04/2023 - [10h10, 11h38] - Semana 7
+## Aula 13 - 18/04/2023 - Semana 7 - [10h10, 11h38]
 
 ### Offtopic (13)
 
@@ -1310,9 +1311,9 @@ Economia $\subset$ Sociedade $\subset$ Ambiente
 
 <!-- Faltou -->
 
-## Aula 14 - 21/04/2023 - [..., ...] - Semana 7 - Feriado
+## Aula 14 - 21/04/2023 - Semana 7 - Feriado
 
-## Aula 15 - 25/04/2023 - [10h46, 11h] - Semana 8 - cheguei atrasado
+## Aula 15 - 25/04/2023 - Semana 8 - [10h46, 11h00] - cheguei atrasado
 
 ### Offtopic (15)
 
@@ -1375,7 +1376,7 @@ Usuário -> Ação -> Produto, sistema
 ##### O que é Usabilidade?
 
 > É a medida da qualidade da experiÊncia de um usuário ao interagir com um produto ou sistema - website, aplicação, tecnologia móvel, ou qualquer dispositivo operado por usuário.
-
+>
 > Combinação de fatores que afetam a experiência do usuário com o produto ou sistema
 
 - Conjunto de 5 fatores
@@ -1409,7 +1410,7 @@ Mateus
 Gravina
 -->
 
-## Aula 16 - 28/04/2023 - [09h00, 9h30] - Cheguei atrasado - Semana 8
+## Aula 16 - 28/04/2023 - Semana 8 - [09h00, 09h30] - Cheguei atrasado
 
 ### Offtopic 16
 
@@ -1495,7 +1496,7 @@ E5: Subjetivamente agradável
   - Eficiência: habilidade para usuário ganhar tempo ao usar sistemas já conhecidos
   - Aprendizado: habilidade para usuários aprender facilmente a usar
 
-## Aula 17 - 02/05/2023 - [10h26, 11h24] - Semana 9 - Cheguei atrasado
+## Aula 17 - 02/05/2023 - Semana 9 - [10h26, 11h24] - Cheguei atrasado
 
 ### Offtopic 17
 
@@ -1604,7 +1605,7 @@ E5: Subjetivamente agradável
 
 #### Psicologia da IHM
 
-## Aula 18 - 28/04/2023 - [08h32, 09h55] - Semana 9
+## Aula 18 - 05/05/2023 - Semana 9 - [08h17, 10h05]
 
 ### Offtopic (18)
 
@@ -1649,16 +1650,18 @@ Um teste: tenta decorar esse número: 978560275 <!-- Número de Rivera? -->
 
 ---
 
-Cognição -> Experimental
-Cognição -> Reflexiva
-Experimental -> A
-Reflexiva -> A
-A -> Atenção
-A -> Percepção e reconhecimento
-A -> Memória
-A -> Aprendizado
-A -> Leitura, fala e audição
-A -> Resolução de probelmas, planejamento, raciocínio e tomada de decisão
+```mermaid
+  Cognição -> Experimental
+  Cognição -> Reflexiva
+  Experimental -> A
+  Reflexiva -> A
+  A -> Atenção
+  A -> Percepção e reconhecimento
+  A -> Memória
+  A -> Aprendizado
+  A -> Leitura, fala e audição
+  A -> Resolução de probelmas, planejamento, raciocínio e tomada de decisão
+```
 
 ##### Cognição Experimental
 
@@ -1740,12 +1743,77 @@ A -> Resolução de probelmas, planejamento, raciocínio e tomada de decisão
 - Implicação do Design
   - FALTOU
 
-## Aula 19 - 09/05/2023 - [08h32, .....] - Semana 9
+## Aula 19 - 09/05/2023 - Semana 10 - [10h18, 12h12] - Prova
 
-### Offtopic (19)
+## Aula 20 - 12/05/2023 - Semana 10 - [08h38, 09h52] - Cheguei atrasado
 
-### Aspecto Cognitivo de Interfaces - Factores Humanos (19)
+### Offtopic (20)
 
-#### Psicologia Cognitiva (19)
+### Aspecto Cognitivo de Interfaces - Factores Humanos (20)
 
-##### Percepção e Reconhecimento (19)
+#### Psicologia Cognitiva (20)
+
+##### Percepção e Reconhecimento (20)
+
+<!-- Imagem do velho -->
+
+---
+
+- Implicações do Design
+  - Texto legível e diferente do fundo
+    - Ex. Textos claros em fundos escuros
+  - Em ambientes virtuais
+    - O feedback tátil permita aos usuários reconhecer o significado de sensações de toques emitidas
+    - Feedback distinguível
+    - Ex.
+      - Pressionar é diferente a clicar
+
+---
+
+<!-- Imagem -->
+
+[Paisagem/Bebê][LinkA] e [Idosos/Mariachi][LinkB].
+
+[LinkA]: https://uploads0.wikiart.org/images/octavio-ocampo/forever-always.jpg!Large.jpg
+[LinkB]: https://img.creativo.media/images/article/list/34590_1.jpg
+
+---
+
+##### Memória
+
+<!-- Não anotei --> ...
+
+---
+
+- Implicações do design
+  - Não sobrecarregar memória com procedimentos complicados para a realização de tarefas
+  - Projeção de interfaces que promovam o reconhecimento, em vez de memorização, utilizando menus, ícones e objetos posicionados
+  - Várias maneiras de codificar a informação
+    - Ex. arquivos, e-mails, imagens
+  - Ajudar a lembrar onde se armazenam
+    - Cores, registros, ícones
+
+---
+
+- Implicações do Design
+  - Não sobrecarregar memória com procedimentos complicados para a realização de tarefas
+
+<!-- Imagem -->
+
+##### Aprendizado
+
+- Utilização de aplicação baseada no computador
+- Dificuldade no aprendizado
+  - Instruções manuais
+- Visão construtivista
+  - Entender fazendo
+  - Experimental
+
+---
+
+- Implicações do Design
+  - Interface com enfatize a exploração
+  - Interface que guie o usuário na seleção das ações adequadas
+  - Vinculação dinâmica de representações que demandem ser aprendidas
+
+## Aula 21 - 16/05/2023 - Semana 11 - [....., .....]
