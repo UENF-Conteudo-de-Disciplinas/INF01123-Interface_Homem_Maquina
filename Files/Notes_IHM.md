@@ -1,6 +1,6 @@
 # Fundamentos de interação Homem-Máquina
 
-## Aula 1 - 07/03/2023 - [09h57, 11h17]
+## Aula 1 - 07/03/2023 - Semana 1 - [09h57, 11h17]
 
 ### Fundamentos de interação Homem-Tecnologia/Homem-Máquina
 
@@ -82,7 +82,7 @@ Flexível X Abstrato: ...
 Fixa X Concreto: Pouca mudança, focado em mercado e pouca chance de aceitabilidade
 Fixa X Abstrato: ...
 
-## Aula 2 - 09/03/2023 - [10h12, 11h28]
+## Aula 2 - 09/03/2023 - Semana 1 - [10h12, 11h28]
 
 ### Fundamentos de interação Homem-Tecnologia/Homem-Máquina (2)
 
@@ -161,7 +161,7 @@ Este design lida com diversos aspectos como:
 
 Fim da aula
 
-## Aula 3 - 14/03/2023 - [10h22, 11h32]
+## Aula 3 - 14/03/2023 - Semana 2 - [10h22, 11h32]
 
 ### Off-topic 3
 
@@ -241,7 +241,7 @@ paulo
 larissa
 zehlu
 
-## Aula 4 - 16/03/2023 - [10h29, 11h28]
+## Aula 4 - 16/03/2023 - Semana 2 - [10h29, 11h28]
 
 ### Fundamentos de interação Homem-Tecnologia/Homem-Máquina (4)
 
@@ -356,7 +356,7 @@ Gravina
 Paulo
 javier
 
-## Aula 5 - 21/03/2023 - [10h18, 11h23]
+## Aula 5 - 21/03/2023 - Semana 3 - [10h18, 11h23]
 
 ### Offtopic
 
@@ -533,7 +533,7 @@ Javier
 André
 -->
 
-## Aula 6 - 24/03/2023 - [08h36, 09h44] - Cheguei atrasado
+## Aula 6 - 24/03/2023 - Semana 3 - [08h36, 09h44] - Cheguei atrasado
 
 ### OffTopic - Aula 6
 
@@ -643,7 +643,7 @@ João Bosco
 João Dias
 -->
 
-## Aula 7 - 28/03/2023 - [10h50, 11h28] - Cheguei atrasado
+## Aula 7 - 28/03/2023 - Semana 4 - [10h50, 11h28] - Cheguei atrasado
 
 ### Offtopic - Aula 7
 
@@ -718,7 +718,7 @@ Dias
 
 -->
 
-## Aula 8 - 31/03/2023 - [08h25, 09h47] - Cheguei atrasado
+## Aula 8 - 31/03/2023 - Semana 4 - [08h25, 09h47] - Cheguei atrasado
 
 ### Offtopic 8
 
@@ -1313,7 +1313,7 @@ Economia $\subset$ Sociedade $\subset$ Ambiente
 
 ## Aula 14 - 21/04/2023 - Semana 7 - Feriado
 
-## Aula 15 - 25/04/2023 - Semana 8 - [10h46, 11h00] - cheguei atrasado
+## Aula 15 - 25/04/2023 - Semana 8 - [10h46, 11h00] - Cheguei atrasado
 
 ### Offtopic (15)
 
@@ -1816,4 +1816,24 @@ Um teste: tenta decorar esse número: 978560275 <!-- Número de Rivera? -->
   - Interface que guie o usuário na seleção das ações adequadas
   - Vinculação dinâmica de representações que demandem ser aprendidas
 
-## Aula 21 - 16/05/2023 - Semana 11 - [....., .....]
+## Aula 21 - 16/05/2023 - Semana 11 - [11h17, .....] - Apresentações
+
+- Apresentações
+  - Javier
+  - Daniel Brito
+    - IA
+  - Bosco, Gravina e Paulo
+    - Interfaces ruins
+  - Daniel Terra
+    - Design Interativo
+  - André, Daniel de Faria, João Pinto
+    - Gamificação
+  - José, Larissa e Mateus Schulz
+    - Acessibilidade
+  - João Dias
+
+## Aula 22 - 20/05/2023 - Semana 11 - [....., .....]
+
+## Aula 23 - 20/05/2023 - Semana 12 - Faltei
+
+## Aula 24 - 20/05/2023 - Semana 12 - [08h56, 09h56] - Cheguei atrasado
