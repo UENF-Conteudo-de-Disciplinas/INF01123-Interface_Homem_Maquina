@@ -1834,6 +1834,42 @@ Um teste: tenta decorar esse número: 978560275 <!-- Número de Rivera? -->
 
 ## Aula 22 - 20/05/2023 - Semana 11 - [....., .....]
 
-## Aula 23 - 20/05/2023 - Semana 12 - Faltei
+## Aula 23 - 23/05/2023 - Semana 12 - Faltei
 
-## Aula 24 - 20/05/2023 - Semana 12 - [08h56, 09h56] - Cheguei atrasado
+## Aula 24 - 27/05/2023 - Semana 12 - [08h00, 09h00]
+
+## Aula 25 - 30/05/2023 - Semana 13 - [08h00, 09h00] - Faltei
+
+## Aula 26 - 02/05/2023 - Semana 13 - [08h00, 09h00] - Faltei
+
+## Aula 27 - 06/05/2023 - Semana 14 - [08h00, 09h00]
+
+### Slide (Não sei)
+
+#### C. Teorias
+
+- Taxonomias
+  - Classificação de conjuntos complexos de fenômenos
+    - Catgorias compreensíveis
+    - Atomizados relacionados
+  - Elementos
+    - Tarefas
+    - Estilos de interface
+    - Tipo de usuários
+    - Estilos de personalidade
+    - Habilidades técnicas
+
+---
+
+...
+
+---
+
+- As 3 regras de ouro do Projeto de interface
+  1. Colocar o usuário no controle
+  2. Reduzir o uso da memória do usuário
+  3. Fazer uma interface consistente
+
+#### The four Pillars of Design
+
+<!-- Imagem -->
