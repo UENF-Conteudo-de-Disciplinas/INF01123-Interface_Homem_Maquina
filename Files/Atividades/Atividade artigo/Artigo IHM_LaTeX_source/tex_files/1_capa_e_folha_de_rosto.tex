@@ -1,0 +1,38 @@
+% --- Informações de dados para CAPA e FOLHA DE ROSTO --- %
+
+\autor{João Vítor Fernandes Dias}
+\titulo{Desenvolvimento centrado ao usuário como forma de viabilizar a resolução do problema de grade horária}
+\local{Campos dos Goytacazes, RJ}
+\data{\today}
+
+\preambulo{Revisão literária desenvolvida para a disciplina de Interface Homem-Máquina da Universidade Estadual do Norte Fluminense Darcy Ribeiro.}
+% \instituicao{Universidade Estadual do Norte Fluminense Darcy Ribeiro \par Ciência da Computação \par Metodologia de Pesquisa}
+\orientador{Luis Antonio Rivera Escriba}
+\tipotrabalho{Revisão Literária}
+%\coorientador{Equipe \abnTeX}
+% O preambulo deve conter o tipo do trabalho, o objetivo, o nome da instituição e a área de concentração
+% ---
+
+
+% ---
+% Configurações de aparência do PDF final
+% alterando o aspecto da cor azul
+\definecolor{blue}{RGB}{41,5,195}
+
+% informações do PDF
+\makeatletter
+\hypersetup{
+%pagebackref=true,
+    pdftitle={\@title}, 
+    pdfauthor={\@author},
+    pdfsubject={\imprimirpreambulo},
+    pdfcreator={LaTeX with abnTeX2},
+    pdfkeywords={abnt}{latex}{abntex}{abntex2}{trabalho acadêmico}, 
+    colorlinks=true,       		% false: boxed links; true: colored links
+    linkcolor=blue,          	% color of internal links
+    citecolor=blue,        		% color of links to bibliography
+    filecolor=magenta,      		% color of file links
+    urlcolor=blue,
+    bookmarksdepth=4
+}
+\makeatother

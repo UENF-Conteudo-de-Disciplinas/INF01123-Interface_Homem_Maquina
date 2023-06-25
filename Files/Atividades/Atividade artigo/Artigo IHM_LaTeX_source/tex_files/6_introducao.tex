@@ -1,0 +1,21 @@
+% --- Introdução --- % (exemplo de capítulo sem numeração, mas presente no Sumário)
+% \addcontentsline{toc}{chapter}{Introdução}
+% ----------------------------------------------------------
+
+\chapter[Introdução]{Introdução}
+
+Com o avanço da quarta revolução industrial, têm-se visado cada vez mais a melhoria da eficiência e produtividade dos processos, com isso, processos antes realizados por humanos tendem a ser automatizados. Um dos processos que há décadas busca-se uma automatização é o agendamento de grade horária, também chamado de \textit{timetabling} ou \textit{timetable scheduling}.
+
+No que consiste o \textit{timetabling}? Esta área de pesquisa da pesquisa operacional visa buscar formas de se alocar recursos escassos em uma tabela de horários de acordo com algumas restrições. Uma das subcategorias dessa área de estudo é o \textit{University Course Timetabling} que tem como recursos a serem alocados os estudantes, professores e turmas em salas disponíveis na instituição de ensino ao longo de espaços de tempo predeterminados.
+
+O \textit{University Course Timetabling} é uma área de estudo que segue sendo estudada pois, dada as especificidades de cada uma das instituições de ensino, a quantidade de variáveis a serem analisadas precisam ser modeladas de acordo com suas regras.
+
+Ao considerarmos a alta complexidade envolvida e as possibilidades de solução para o dado conjunto de regras e variáveis, este problema acaba se tornando difícil de gerenciar de forma eficiente manualmente, porém também tem alta complexidade computacional tendo tempo de resolução não-polinomial o que o configura como um problema heurístico NP-Difícil. \cite{MIRANDA2012505}
+
+Embora hajam diversos níveis de dificuldades para este ramo de estudo, ele ainda assim segue tendo soluções práticas em cenários reais. \cite{MIRANDA2012505} Essas soluções tendem a ter duas abordagens principais: uma sendo a resolução automatizada, a outra sendo o uso de uma ferramenta de assistência à decisão. Mas e qual é a diferença?
+
+No primeiro caso, as informações base são definidas e através de um algoritmo, um ou várias soluções possíveis são encontradas. Para isto, diversas alternativas já se encontram na literatura \cite{KADAM2016}: algoritmo genético, coloração de grafos, modelo binário, modelo de processamento de rede analítica, etc. Os maiores problemas encontrados nessa abordagem são o tempo de resolução crescer rapidamente de acordo com a quantidade de valores e variáveis; dependendo do método de resolução, pode-se encontrar máximos/mínimos locais que limitam a solução.
+
+No segundo caso, o sistema tende a assistir o usuário a encontrar manualmente, ou fazer ajustes à soluções já encontradas no primeiro método. Esta abordagem tende a ter um contato maior com o usuário, que precisará interagir diretamente com as resoluções. Tendo o conhecimento das complexidades dimensionais, é necessário que a interface seja agradável ao usuário, tarefa crítica e de difícil alcance, dada a multitude de especialidades dos usuários e da dificuldade do problema. Mas esse é o enfoque deste trabalho.
+
+A ideia trazida por este trabalho é a de que o desenvolvimento de um software com foco no usuário pode vir a ser uma abordagem confiável e agradável para a resolução desta problemática ainda em aberto.
